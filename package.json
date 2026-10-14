@@ -1,0 +1,17 @@
+{
+  "name": "safeprompt-pii-shield",
+  "version": "1.0.0",
+  "description": "Zero-latency AI Prompt Injection Firewall & GDPR PII Redaction SDK for OpenAI, Claude, and LangChain.",
+  "main": "index.js",
+  "keywords": [
+    "prompt-injection",
+    "pii-redaction",
+    "llm-security",
+    "gdpr",
+    "openai-security",
+    "ai-firewall",
+    "data-masking"
+  ],
+  "author": "Autonomous AI Builder",
+  "license": "MIT"
+}
